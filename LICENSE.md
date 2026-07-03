@@ -1,4 +1,4 @@
-# 
+# Turbo BugHunter installeur. Téléchargez et installez avec installation en un clic et accélération GPU — rapide, sécurisé et facile à utiliser.
 
 
 
